@@ -1,0 +1,25 @@
+{
+  "name": "node-beginner",
+  "version": "1.0.0",
+  "description": "Code examples from The Node Beginner Book",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterkim2/node-beginner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterkim2/node-beginner/issues"
+  },
+  "homepage": "https://github.com/peterkim2/node-beginner#readme"
+}
